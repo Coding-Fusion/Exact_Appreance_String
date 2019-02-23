@@ -1,9 +1,5 @@
 /*AUTHOR 		: DEBRATH BANERJEE
-  STUDENT ID	: 50533487
-  COURSE ID		: CS6713
-  SUBJECT		: ADV ANALYSIS OF ALGORITHMS
-  INSTRUCTOR	: DR. Xiuzhen Huang
-  PROJECT 		: Study and Implement the EXACT-APPEARANCE algorithm
+PROJECT 		: Study and Implement the Pattern Matching algorithm
 */
 
 #include<iostream>
